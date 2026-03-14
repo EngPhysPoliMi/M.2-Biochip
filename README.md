@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Biochip
 
-Repository for "Template".
+Repository for "Biochip".
 
 
 ## Use instructions
